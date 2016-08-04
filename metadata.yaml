@@ -1,0 +1,30 @@
+_repo: A-Modest-Proposal--13-For-preventing-the-children-of-poor-people-in-Ireland-from-being-a-burde__1080
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+description: ''
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 18th century -- Humor'
+- !lcc 'PR'
+- !lcsh 'Religious satire, English'
+- !lcsh 'Political satire, English'
+- GITenberg
+title: "A Modest Proposal\r\nFor preventing the children of poor people in Ireland,\
+  \ from being a burden on their parents or country, and for making them beneficial\
+  \ to the publick"
+url: http://www.gutenberg.org/ebooks/1080
